@@ -3,6 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+# 'dark_custom','cupcake_custom'
 color_theme = "dark_custom"
 # Enable users to switch between day and night mode?
 day_night = true
